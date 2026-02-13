@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-AI-green)
-![Status](https://img.shields.io/badge/Project-Active-success)
+![DeepLearning](https://img.shields.io/badge/DeepLearning-AI-green)
+![Project Status](https://img.shields.io/badge/Status-Active-success)
+
 # 🧬 Multi-Cancer Classification using Deep Learning
 
 An end-to-end AI system for multi-class cancer classification from medical images using Transfer Learning, Bayesian Optimization, and Learning without Forgetting (LwF).
