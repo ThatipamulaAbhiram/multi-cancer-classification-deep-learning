@@ -49,4 +49,4 @@ src/
 ---
 
 ## 👨‍💻 Author
-Abhiram Thattapamala
+Abhiram Thatipamula
